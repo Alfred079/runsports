@@ -1,5 +1,5 @@
 import React from 'react';
-import { Target, Users, Trophy, Camera } from 'lucide-react';
+import { Target, Users, Trophy } from 'lucide-react';
 
 interface ValueCardProps {
   icon: React.ReactNode;

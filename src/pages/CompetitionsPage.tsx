@@ -1,4 +1,3 @@
-import React from 'react';
 import { Calendar, Trophy, Medal } from 'lucide-react';
 
 interface MatchCardProps {
